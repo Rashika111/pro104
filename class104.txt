@@ -1,0 +1,29 @@
+descriptive data which gives us information
+Central tendency is a value that tries to describe a data by identifying the central position within the given data. This is also classed as summary statistics. An example of central tendency is finding an average.
+Mean ,Median and Mode are a part of descriptive statistics.
+Mean- Average
+Median
+mean = sum of values / no of values
+4,5,6,2,3
+Teacher To You, 05:27pm
+2,3,4,5,6
+You To Teacher, 05:28pm
+[object Object]
+odd-
+total nouber of values = 5
+median - middle number
+4
+8,7,4,3,5,1
+Teacher To You, 05:29pm
+1,3,4,5,7,8
+You To Teacher, 05:29pm
+[object Object]
+total nouber of values = 6
+even
+(4+5)/2
+9/2
+4.5
+3. Mode
+Mode is used to find the most occuring value of a data set
+2,4,5,6,2,8,2,9,2,4
+mode= 2
